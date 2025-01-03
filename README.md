@@ -55,12 +55,19 @@ b. **Company Management**
 1. **Company Management**
      Company Management enables administrators to handle company profiles efficiently. They can add new companies, update existing information,
      and track communication schedules for each business relationship.
+
+   
 <img width="1468" alt="image" src="https://github.com/user-attachments/assets/0225ab84-5447-4ce3-865e-1d6b6838f609" />
+
 
      The system maintains detailed company records, including names, locations,and contact details. LinkedIn profiles and communication preferences
      are stored to ensure consistent professional engagement
    - Add, edit, and delete company profiles
+
+     
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/927d315a-f881-4542-8d3f-e2f5d1ca297a" />
+
+
    - Manage company details (name, location, contact info)
    - Set communication periodicities
    - Track LinkedIn profiles and contact information
@@ -68,7 +75,11 @@ b. **Company Management**
 3. **Communication Method Management**
    Communication Method Management organizes interactions through a structured sequence. It starts with LinkedIn Posts, progresses to Messages,
    then moves to Emails, and concludes with Phone Calls.
+
+   
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/6571abf1-2b6f-4974-8bdc-a59fb4f2426a" />
+
+
    Administrators can customize how they interact with each company. They can set mandatory
    steps, adjust communication frequencies, and modify the sequence based on specific company needs.
    - Configure communication methods
@@ -104,7 +115,11 @@ b. **Communication Logging**
    ```
 1. **Dashboard Features**
    The Dashboard provides a comprehensive grid view of all companies. Users can instantly see their last five communications
+
+   
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/3a1c5774-12c2-438c-8631-80193e7a31a5" />
+
+
    and upcoming scheduled interactions at a glance. Interactive tooltips reveal detailed information.
    - Grid view of companies
    - Last 5 communications summary
@@ -119,7 +134,11 @@ b. **Communication Logging**
      detailed notes.The system preserves a complete communication history. Each entry includes dates, methods used, and outcomes. Users can track patterns and maintain
      consistent engagement records.
    - Log new communications with timestamp
+  
+     
  <img width="1470" alt="image" src="https://github.com/user-attachments/assets/81a1136d-ad2a-44eb-95c7-86630cfe15d0" />
+
+ 
    - Multi-company selection support
    - Date tracking system
    - Notes and comments documentation
@@ -128,7 +147,11 @@ b. **Communication Logging**
 5. **Calendar View**
      The Calendar View offers flexible time management. Users can review past communications, plan future interactions, and easily adjust schedules through
      drag-and-drop functionality.Multiple calendar views accommodate different planning needs.
+
+   
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/47c3b2e9-b349-41ab-815c-211bdab17a93" />
+
+
      Users can switch between month, week, and day views to focus on
      immediate tasks or plan long-term strategies.
    - Past communication records
@@ -140,7 +163,11 @@ b. **Communication Logging**
 7. **Notification System**
      The Notification System ensures timely engagement. Real-time alerts notify users of due communications and overdue tasks, while email reminders provide
      additional backup.Color-coding makes status tracking intuitive.
+
+   
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/9c7b0f2a-41e9-4f58-a651-874652d4b176" />
+
+
     Red highlights indicate overdue communications, while yellow marks tasks due today.
      Interactive tooltips reveal detailed information.
    - Real-time alerts for due communications
@@ -173,13 +200,22 @@ b. **Communication Logging**
  **Analytics Dashboard**
    - Communication frequency analysis
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/b855f678-dbe5-4f3e-8b70-ac05f35b4b4e" />
+
+
    - Engagement effectiveness metrics
  <img width="1470" alt="image" src="https://github.com/user-attachments/assets/ade936d6-af40-4a74-b296-5f3bb460e916" />
+
+ 
    - Overdue communication tracking
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/179f1cd4-efa8-465a-a2e0-a33941c7409b" />
+
+
    - Exportable reports (PDF/CSV)
+     
    - Real-time activity logging
 <img width="1469" alt="image" src="https://github.com/user-attachments/assets/103198d9-4f3d-400b-81d5-b60ec5d204f4" />
+
+
    - Custom date range analysis
    - Company-specific reporting
    - Trend visualization
