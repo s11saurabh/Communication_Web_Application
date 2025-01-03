@@ -57,7 +57,7 @@ b. **Company Management**
      and track communication schedules for each business relationship.
 
    
-<img width="1468" alt="image" src="https://github.com/user-attachments/assets/0225ab84-5447-4ce3-865e-1d6b6838f609" />
+<img width="1468" alt="image" src="https://github.com/user-attachments/assets/ce75ba16-d8ca-48f0-a186-fef187157a4a" />
 
 
      The system maintains detailed company records, including names, locations,and contact details. LinkedIn profiles and communication preferences
@@ -77,7 +77,8 @@ b. **Company Management**
    then moves to Emails, and concludes with Phone Calls.
 
    
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/6571abf1-2b6f-4974-8bdc-a59fb4f2426a" />
+<img width="1469" alt="image" src="https://github.com/user-attachments/assets/879373d6-b1ba-47f6-8131-7b967739bd42" />
+
 
 
    Administrators can customize how they interact with each company. They can set mandatory
@@ -117,7 +118,7 @@ b. **Communication Logging**
    The Dashboard provides a comprehensive grid view of all companies. Users can instantly see their last five communications
 
    
-<img width="1470" alt="image" src="https://github.com/user-attachments/assets/3a1c5774-12c2-438c-8631-80193e7a31a5" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/1b78bde3-5ef1-4fa3-aded-4f495b52e1f9" />
 
 
    and upcoming scheduled interactions at a glance. Interactive tooltips reveal detailed information.
